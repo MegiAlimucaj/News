@@ -1,4 +1,3 @@
-# News
 # Space News
 
 ## Description
@@ -11,6 +10,7 @@ Uses the Spaceflight News API, linked below.
 
 https://api.spaceflightnewsapi.net/v4/docs/#/articles/articles_list
 
+<img src="public/space-news-sc.jpg" width="500px"/>
 
 ## Installation
 
